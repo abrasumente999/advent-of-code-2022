@@ -2,7 +2,7 @@
 
 This repo contains my Javascript solutions to the [Advent of Code](https://adventofcode.com/) puzzles. 🎄
 
-Each folder will contain an index file containing two solutions, one for each task.
+Each folder will contain an index file containing two solutions, one for each task, plus a readme containing the daily task posted on [Advent of Code](https://adventofcode.com/2022)]
 
 # How to run
 
